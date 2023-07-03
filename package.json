@@ -1,0 +1,10 @@
+{
+  "name": "react-native-ai",
+  "version": "0.0.1",
+  "description": "Your central hub for running AI models on React Native",
+  "main": "index.js",
+  "repository": "https://github.com/infinitered/react-native-ai",
+  "author": "Infinite Red, Inc.",
+  "license": "MIT",
+  "private": false
+}
